@@ -1,5 +1,8 @@
-# SairajMN
+# HI THERE!
+## I'm SairajMN here
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SairajMN)](https://github.com/SairajMN)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SairajMN)](https://github.com/SairajMN)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SairajMN)](https://github.com/SairajMN)
+![](https://nirzak-streak-stats.vercel.app/?user=SairajMN theme=dark&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SairajMN)](https://github.com/SairajMN)<br>
