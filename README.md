@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Hardhat-FF6B35?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 
@@ -167,11 +168,12 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 ---
 
 ##  Certifications
-- **ISC2 – Certified in Cybersecurity (CC):** IAM, network security, incident response.  
-- **Cybrary – Cyber Kill Chain:** Threat intelligence, attack lifecycle, and mitigation strategies.  
-- **Blockchain Basics (Cyfrin Updraft):** Smart contracts, decentralized applications.  
-- **Coursera Specialization:** Applied computer science & development skills.  
-- **Sololearn Certificates:** JavaScript & Web Development.  
+- **ISC2 – Certified in Cybersecurity (CC):** IAM, network security, incident response.
+- **Cybrary – Cyber Kill Chain:** Threat intelligence, attack lifecycle, and mitigation strategies.
+- **Blockchain Basics (Cyfrin Updraft):** Smart contracts, decentralized applications.
+- **Certisured – Automation with n8n:** Workflow automation and integration.
+- **Coursera Specialization:** Applied computer science & development skills.
+- **Sololearn Certificates:** JavaScript & Web Development.
 
 ---
 
@@ -191,7 +193,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Stars:** 1 | **Forks:** 0
 
 ### [MongoFlow](https://github.com/SairajMN/MongoFlow)
-- **Description:** None
+- **Description:** Live demo: https://mongoflow.vercel.app/
 - **Language:** CSS
 - **Stars:** 0 | **Forks:** 0
 
@@ -201,7 +203,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Stars:** 0 | **Forks:** 0
 
 ### [FluxPay402](https://github.com/SairajMN/FluxPay402)
-- **Description:** Built for BASE FBI hackathon.
+- **Description:** Built for BASE FBI hackathon. Live demo: https://fluxpay.vercel.app/
 - **Language:** JavaScript
 - **Stars:** 0 | **Forks:** 0
 
@@ -226,7 +228,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Stars:** 0 | **Forks:** 0
 
 ### [AutoCrowd](https://github.com/SairajMN/AutoCrowd)
-- **Description:** Built for ETHGlobal ETHOnline hackathon (certificate available).
+- **Description:** Built for ETHGlobal ETHOnline hackathon (certificate available). Live demo: https://auto-crowd.vercel.app/
 - **Language:** Solidity
 - **Stars:** 0 | **Forks:** 0
 
@@ -236,7 +238,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Stars:** 0 | **Forks:** 0
 
 ### [DeFiFlow](https://github.com/SairajMN/DeFiFlow)
-- **Description:** Built for Hack Odisha hackathon (certificate available).
+- **Description:** Built for Hack Odisha hackathon (certificate available). Live demo: https://defiflow.vercel.app/
 - **Language:** JavaScript
 - **Stars:** 0 | **Forks:** 0
 
@@ -245,9 +247,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Language:** None
 - **Stars:** 1 | **Forks:** 0
 
-### [project2](https://github.com/SairajMN/project2)
-- **Description:** None
-- **Language:** CSS
+### [PYTHON](https://github.com/SairajMN/PYTHON)
+- **Description:** Python learning repository from FreeCodeCamp and "Automate the Boring Stuff with Python" by Al Sweigart.
+- **Language:** Python
 - **Stars:** 0 | **Forks:** 0
-
-- **Description:** None
