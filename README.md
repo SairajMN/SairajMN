@@ -8,18 +8,13 @@
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SairajMN&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajMN&theme=github" alt="GitHub Activity Graph" />
 
   <br><br>
 
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=SairajMN&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajMN&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
   <br><br>
 
@@ -113,12 +108,15 @@ Full Stack Developer and Web3 Engineer passionate about building **scalable, sec
 ---
 
 ##  Education
+**Master of Computer Applications (MCA)**  
+SMVIT College, Bangalore *(Joined: Dec 2025 – Present)*  
+
 **Bachelor of Computer Applications (BCA)**  
 KLE’s JT BCA College, Gadag, Karnataka *(Apr 2022 – Jun 2023)*  
 SME’s Abdul Kalam College, Gadag, Karnataka *(Aug 2023 – Aug 2025)*  
 *Expected Completion: August 2025*  
 
-**Pre-University Course (PUC) — PCMB**  
+**Pre-University Course (PUC) — PCMB**
 Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*  
 - Studied **Physics, Chemistry, Mathematics, Biology (PCMB)**.  
 - Developed strong **analytical thinking, problem-solving, and logical reasoning skills**.  
@@ -183,5 +181,73 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 
 ---
 
- **Consistent GitHub Contributor:** Maintains daily commits and active repositories, reflecting **continuous learning, discipline, and open-source collaboration**.  
+ **Consistent GitHub Contributor:** Maintains daily commits and active repositories, reflecting **continuous learning, discipline, and open-source collaboration**.
 
+## All GitHub Projects
+
+### [SairajMN](https://github.com/SairajMN/SairajMN)
+- **Description:** Config files for my GitHub profile.
+- **Language:** None
+- **Stars:** 1 | **Forks:** 0
+
+### [MongoFlow](https://github.com/SairajMN/MongoFlow)
+- **Description:** None
+- **Language:** CSS
+- **Stars:** 0 | **Forks:** 0
+
+### [test](https://github.com/SairajMN/test)
+- **Description:** None
+- **Language:** None
+- **Stars:** 0 | **Forks:** 0
+
+### [FluxPay402](https://github.com/SairajMN/FluxPay402)
+- **Description:** Built for BASE FBI hackathon.
+- **Language:** JavaScript
+- **Stars:** 0 | **Forks:** 0
+
+### [AutoBoard_AI](https://github.com/SairajMN/AutoBoard_AI)
+- **Description:** None
+- **Language:** None
+- **Stars:** 0 | **Forks:** 0
+
+### [x402-openrouter-ngrok-starter](https://github.com/SairajMN/x402-openrouter-ngrok-starter)
+- **Description:** Build an agent and monetize it
+- **Language:** None
+- **Stars:** 0 | **Forks:** 0
+
+### [onchainCV](https://github.com/SairajMN/onchainCV)
+- **Description:** None
+- **Language:** Solidity
+- **Stars:** 0 | **Forks:** 0
+
+### [SMARTCONTRACT-Development](https://github.com/SairajMN/SMARTCONTRACT-Development)
+- **Description:** Self-learning repository for Solidity from Cyfrin.
+- **Language:** Solidity
+- **Stars:** 0 | **Forks:** 0
+
+### [AutoCrowd](https://github.com/SairajMN/AutoCrowd)
+- **Description:** Built for ETHGlobal ETHOnline hackathon (certificate available).
+- **Language:** Solidity
+- **Stars:** 0 | **Forks:** 0
+
+### [GuildForge](https://github.com/SairajMN/GuildForge)
+- **Description:** None
+- **Language:** Solidity
+- **Stars:** 0 | **Forks:** 0
+
+### [DeFiFlow](https://github.com/SairajMN/DeFiFlow)
+- **Description:** Built for Hack Odisha hackathon (certificate available).
+- **Language:** JavaScript
+- **Stars:** 0 | **Forks:** 0
+
+### [daily-logger](https://github.com/SairajMN/daily-logger)
+- **Description:** None
+- **Language:** None
+- **Stars:** 1 | **Forks:** 0
+
+### [project2](https://github.com/SairajMN/project2)
+- **Description:** None
+- **Language:** CSS
+- **Stars:** 0 | **Forks:** 0
+
+- **Description:** None
