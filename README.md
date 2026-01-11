@@ -67,7 +67,7 @@
 # Sairaj Moulasab Nadaf
 
 **Full Stack & Web3 Developer | DApps & Smart Contracts**  
- [Gmail](sairaj.nadaf@gmail.com) |  +91 8147564186 |  Gadag, Karnataka, India  
+ [Gmail](sairaj.nadaf@gmail.com) |  Gadag, Karnataka, India  
  [GitHub](https://github.com/SairajMN) | [LinkedIn](https://www.linkedin.com/in/sairaj-m-n/) | [X](https://x.com/sairaj_18)  
 
 ---
