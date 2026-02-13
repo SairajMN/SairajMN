@@ -193,7 +193,7 @@ Swami Vivekanand PU College, Hulkoti, Karnataka *(Completed: 2022)*
 - **Stars:** 1 | **Forks:** 0
 
 ### [MongoFlow](https://github.com/SairajMN/MongoFlow)
-- **Description:** Live demo: https://mongoflow.vercel.app/
+- **Description:** Live demo: https://mongo-flow.vercel.app/
 - **Language:** CSS
 - **Stars:** 0 | **Forks:** 0
 
