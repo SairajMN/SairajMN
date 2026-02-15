@@ -33,6 +33,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <!-- automation black badge -->
+<a href="https://chain.link/badge"> <img src="https://chain.link/badge-automation-black" alt="automation secured with chainlink"></a>
+    <!-- market data black badge -->
+<a href="https://chain.link/badge"> <img src="https://chain.link/badge-market-data-black" alt="market data secured with chainlink"></a>
+    <!-- functions black badge -->
+<a href="https://chain.link/badge"> <img src="https://chain.link/badge-functions-black" alt="secured with chainlink"></a>
+    <!-- Data Stream black badge -->
+<a href="https://chain.link/badge"> <img src="https://chain.link/badge-data-streams-black" alt="Data Streams secured with chainlink"></a>
   </p>
 
   <br>
